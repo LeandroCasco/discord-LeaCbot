@@ -1,0 +1,17 @@
+{
+  "name": "leac",
+  "version": "1.0.0",
+  "description": "simple discord bot",
+  "main": "/indec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "node",
+    "discordjs"
+  ],
+  "author": "cascoleandro2001@gmail.com",
+  "license": "MIT"
+}
